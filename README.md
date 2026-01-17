@@ -23,4 +23,4 @@ A custom-built React application designed for the School of Infocomm at Republic
 
 ## Hosting
 The live demonstration of this portal can be found at: 
-[INSERT YOUR VERCEL/NETLIFY/GITHUB PAGES LINK HERE]
+https://c219-l18-problemstatement.vercel.app/

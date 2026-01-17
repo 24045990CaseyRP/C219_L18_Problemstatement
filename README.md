@@ -1,4 +1,4 @@
-# C219_L18_Problemstatement1# Republic Polytechnic: School of Infocomm Course Enrolment Portal
+# Republic Polytechnic: School of Infocomm Course Enrolment Portal
 
 ## Objective
 A custom-built React application designed for the School of Infocomm at Republic Polytechnic. This portal allows prospective students to explore various diplomas, view module details through dynamic nested routing, and register their interest in specific courses.
